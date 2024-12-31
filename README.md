@@ -7,12 +7,14 @@ This repo contains some web scraping examples.
 1. [IMDb](#imdb)
     - [imdb_chart](#imdb_chart)
     - [moviemeter_cast](#moviemeter_cast)
+2. [Billboard](#billboard)
+    - [billboard_hot100](#billboard_hot100)
 
 ## IMDb
 
 ### imdb_chart
 
-[imdb_chart.py](IMDb\imdb_chart.py) scrapes IMDb most popular [movies](https://www.imdb.com/chart/moviemeter/) or [TV shows](https://www.imdb.com/chart/tvmeter/).
+[imdb_chart.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/IMDb/imdb_chart.py) scrapes IMDb most popular [movies](https://www.imdb.com/chart/moviemeter/) or [TV shows](https://www.imdb.com/chart/tvmeter/).
 
 #### Parameters
 
@@ -27,7 +29,7 @@ This repo contains some web scraping examples.
 
 ### moviemeter_cast
 
-[moviemeter_cast.py](IMDb\moviemeter_cast.py) scrapes the cast for the films in Moviemeter Chart.
+[moviemeter_cast.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/IMDb/moviemeter_cast.py) scrapes the cast for the films in Moviemeter Chart.
 
 #### Parameters
 
@@ -37,5 +39,17 @@ This repo contains some web scraping examples.
 #### How to run the script
 `cd .\IMDb\;python .\moviemeter_cast.py -l 3 -o .\output\moviemeter_cast.json`
 
+## Billboard
+
+### billboard_hot100
+
+[billboard_hot100.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/Billboard/billboard_hot100.py) scrapes Billboard [Hot 100](https://www.billboard.com/charts/hot-100/) chart. So far, this script fetches the name of the song and author.
+
+#### Parameters
+
+* -o: output CSV file to store results.
+
+#### How to run the script
+`cd .\Billboard\;python .\billboard_hot100.py -o .\output\billboard_top100.csv`
 
 
