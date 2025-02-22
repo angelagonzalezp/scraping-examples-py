@@ -9,6 +9,8 @@ This repo contains some web scraping examples.
     - [moviemeter_cast](#moviemeter_cast)
 2. [Billboard](#billboard)
     - [billboard_hot100](#billboard_hot100)
+3. [goodreads](#goodreads)
+    - [goodreads_top100](#goodreads_top100)
 
 ## IMDb
 
@@ -52,4 +54,14 @@ This repo contains some web scraping examples.
 #### How to run the script
 `cd .\Billboard\;python .\billboard_hot100.py -o .\output\billboard_top100.csv`
 
+## goodreads
 
+### goodreads_top100
+[goodreads_top100.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/goodreads/goodreads_top100.py) scrapes Goodreads Top 100 - Highest Rated Books on Goodreads with at least 10,000 Ratings
+
+#### Parameters
+
+* -o: output CSV file to store results.
+
+#### How to run the script
+`cd .\goodreads\;python .\goodreads_top100.py -o .\output\goodreads_top100.csv`
