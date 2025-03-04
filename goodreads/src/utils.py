@@ -2,6 +2,9 @@ import requests
 import re
 from bs4 import BeautifulSoup
 import logging
+import os
+from pymongo import MongoClient
+from dotenv import load_dotenv
 import pandas as pd
 import numpy as np
 from .constants import *
@@ -57,10 +60,18 @@ def scrape_authors(top_table):
 
 def format_rating(rating_string):
     """ rating_string: ' 4.57 avg rating — 29,297 ratings' """
-    splitted_rating = rating_string.split("—")
-    avg_string = splitted_rating[0].replace("avg rating", "").strip()
-    rating_count = splitted_rating[1].replace("ratings", "").replace(",","").strip()
-    return float(avg_string), int(rating_count)
+    avg_mark = None
+    votes = None
+    try:
+        splitted_rating = rating_string.split("—")
+        avg_string = splitted_rating[0].replace("avg rating", "").strip()
+        mark = re.findall("\d+\.\d+", avg_string)[0]
+        rating_count = splitted_rating[1].replace("ratings", "").replace(",","").strip()
+        avg_mark = float(mark)
+        votes = int(rating_count)
+    except Exception:
+        logging.error(rating_string)
+    return avg_mark, votes
 
 def scrape_rating(top_table):
     avg_rating_list = []
@@ -95,6 +106,37 @@ def scrape_table_data(table_html):
 
 def scraped_dict_to_csv(data_dict, filename):
     df = pd.DataFrame.from_dict(data_dict)
-    df.index.rename("position", inplace=True)
     df.index = np.arange(1, len(df) + 1)
+    df.index.rename("position", inplace=True)
     df.to_csv(filename, sep=";", encoding="utf-8")
+    return df
+
+def connect_to_mongo(mongo_uri, database):
+    try:
+        logging.info("connect_to_mongo(): Connecting to MongoDB")
+        client = MongoClient(mongo_uri) 
+        db = client[database]
+    except Exception as mongo_error:
+        raise mongo_error
+    return db
+    
+def get_mongo_collection(db_object, colname):
+    try:
+        collection = db_object[colname]
+    except Exception as err:
+        raise err
+    return collection
+
+def insert_df_to_mongo(df):
+    load_dotenv()
+    MONGO_URI = os.getenv("MONGO_URI")
+    MONGO_DB = os.getenv("MONGO_DB")
+    MONGO_COLLECTION = os.getenv("MONGO_COL")
+    db = connect_to_mongo(MONGO_URI, MONGO_DB)
+    collection = get_mongo_collection(db, MONGO_COLLECTION)
+    try:
+        logging.info(f"insert_df_to_mongo(): Insert documents to {MONGO_COLLECTION}")
+        collection.insert_many(df.to_dict('records'))
+    except Exception as insert_error:
+        raise insert_error
+        
