@@ -57,10 +57,18 @@ def scrape_authors(top_table):
 
 def format_rating(rating_string):
     """ rating_string: ' 4.57 avg rating — 29,297 ratings' """
-    splitted_rating = rating_string.split("—")
-    avg_string = splitted_rating[0].replace("avg rating", "").strip()
-    rating_count = splitted_rating[1].replace("ratings", "").replace(",","").strip()
-    return float(avg_string), int(rating_count)
+    avg_mark = None
+    votes = None
+    try:
+        splitted_rating = rating_string.split("—")
+        avg_string = splitted_rating[0].replace("avg rating", "").strip()
+        mark = re.findall("\d+\.\d+", avg_string)[0]
+        rating_count = splitted_rating[1].replace("ratings", "").replace(",","").strip()
+        avg_mark = float(mark)
+        votes = int(rating_count)
+    except Exception:
+        logging.error(rating_string)
+    return avg_mark, votes
 
 def scrape_rating(top_table):
     avg_rating_list = []
@@ -95,6 +103,6 @@ def scrape_table_data(table_html):
 
 def scraped_dict_to_csv(data_dict, filename):
     df = pd.DataFrame.from_dict(data_dict)
-    df.index.rename("position", inplace=True)
     df.index = np.arange(1, len(df) + 1)
+    df.index.rename("position", inplace=True)
     df.to_csv(filename, sep=";", encoding="utf-8")
