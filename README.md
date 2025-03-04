@@ -62,6 +62,7 @@ This repo contains some web scraping examples.
 #### Parameters
 
 * -o: output CSV file to store results.
+* -m: optional flag. If specified, it writes the scraped data to a MongoDB collection specified as environment variables.
 
 #### How to run the script
-`cd .\goodreads\;python .\goodreads_top100.py -o .\output\goodreads_top100.csv`
+`cd .\goodreads\;python .\goodreads_top100.py -o .\output\goodreads_top100.csv [-m]`

@@ -1,0 +1,1100 @@
+[{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458037a"
+  },
+  "title": "Words of Radiance (The Stormlight Archive, #2)",
+  "book_url": "https://www.goodreads.com/book/show/17332218-words-of-radiance",
+  "author": "Brandon Sanderson",
+  "author_url": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+  "rating": 4.76,
+  "votes": 422303
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458037b"
+  },
+  "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+  "book_url": "https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows",
+  "author": "J.K. Rowling",
+  "author_url": "https://www.goodreads.com/author/show/1077326.J_K_Rowling",
+  "rating": 4.62,
+  "votes": 3931366
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458037c"
+  },
+  "title": "Crooked Kingdom (Six of Crows, #2)",
+  "book_url": "https://www.goodreads.com/book/show/22299763-crooked-kingdom",
+  "author": "Leigh Bardugo",
+  "author_url": "https://www.goodreads.com/author/show/4575289.Leigh_Bardugo",
+  "rating": 4.58,
+  "votes": 711680
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458037d"
+  },
+  "title": "Fourth Wing (The Empyrean, #1)",
+  "book_url": "https://www.goodreads.com/book/show/61431922-fourth-wing",
+  "author": "Rebecca Yarros",
+  "author_url": "https://www.goodreads.com/author/show/7539785.Rebecca_Yarros",
+  "rating": 4.58,
+  "votes": 2716353
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458037e"
+  },
+  "title": "A Court of Mist and Fury (A Court of Thorns and Roses, #2)",
+  "book_url": "https://www.goodreads.com/book/show/50659468-a-court-of-mist-and-fury",
+  "author": "Sarah J. Maas",
+  "author_url": "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas",
+  "rating": 4.65,
+  "votes": 2711795
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458037f"
+  },
+  "title": "The Return of the King (The Lord of the Rings, #3)",
+  "book_url": "https://www.goodreads.com/book/show/61215384-the-return-of-the-king",
+  "author": "J.R.R. Tolkien",
+  "author_url": "https://www.goodreads.com/author/show/656983.J_R_R_Tolkien",
+  "rating": 4.57,
+  "votes": 976515
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580380"
+  },
+  "title": "The House of Hades (The Heroes of Olympus, #4)",
+  "book_url": "https://www.goodreads.com/book/show/12127810-the-house-of-hades",
+  "author": "Rick Riordan",
+  "author_url": "https://www.goodreads.com/author/show/15872.Rick_Riordan",
+  "rating": 4.57,
+  "votes": 454886
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580381"
+  },
+  "title": "Kingdom of Ash (Throne of Glass, #7)",
+  "book_url": "https://www.goodreads.com/book/show/76715522-kingdom-of-ash",
+  "author": "Sarah J. Maas",
+  "author_url": "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas",
+  "rating": 4.71,
+  "votes": 841541
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580382"
+  },
+  "title": "The Nightingale",
+  "book_url": "https://www.goodreads.com/book/show/21853621-the-nightingale",
+  "author": "Kristin Hannah",
+  "author_url": "https://www.goodreads.com/author/show/54493.Kristin_Hannah",
+  "rating": 4.64,
+  "votes": 1722979
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580383"
+  },
+  "title": "The Complete Maus",
+  "book_url": "https://www.goodreads.com/book/show/15195.The_Complete_Maus",
+  "author": "Art Spiegelman",
+  "author_url": "https://www.goodreads.com/author/show/5117.Art_Spiegelman",
+  "rating": 4.58,
+  "votes": 238195
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580384"
+  },
+  "title": "Know My Name",
+  "book_url": "https://www.goodreads.com/book/show/50196744-know-my-name",
+  "author": "Chanel Miller",
+  "author_url": "https://www.goodreads.com/author/show/19527332.Chanel_Miller",
+  "rating": 4.7,
+  "votes": 229778
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580385"
+  },
+  "title": "Heartstopper: Volume Four (Heartstopper, #4)",
+  "book_url": "https://www.goodreads.com/book/show/56060300-heartstopper",
+  "author": "Alice Oseman",
+  "author_url": "https://www.goodreads.com/author/show/7789423.Alice_Oseman",
+  "rating": 4.59,
+  "votes": 420984
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580386"
+  },
+  "title": "Light Bringer (Red Rising Saga, #6)",
+  "book_url": "https://www.goodreads.com/book/show/29227774-light-bringer",
+  "author": "Pierce Brown",
+  "author_url": "https://www.goodreads.com/author/show/6474348.Pierce_Brown",
+  "rating": 4.75,
+  "votes": 64244
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580387"
+  },
+  "title": "Just Mercy",
+  "book_url": "https://www.goodreads.com/book/show/20342617-just-mercy",
+  "author": "Bryan Stevenson",
+  "author_url": "https://www.goodreads.com/author/show/4396806.Bryan_Stevenson",
+  "rating": 4.63,
+  "votes": 247960
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580388"
+  },
+  "title": "It's a Magical World (Calvin and Hobbes, #11)",
+  "book_url": "https://www.goodreads.com/book/show/24814.It_s_a_Magical_World",
+  "author": "Bill Watterson",
+  "author_url": "https://www.goodreads.com/author/show/13778.Bill_Watterson",
+  "rating": 4.73,
+  "votes": 28807
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580389"
+  },
+  "title": "The Boy, the Mole, the Fox and the Horse",
+  "book_url": "https://www.goodreads.com/book/show/43708884-the-boy-the-mole-the-fox-and-the-horse",
+  "author": "Charlie Mackesy",
+  "author_url": "https://www.goodreads.com/author/show/3242801.Charlie_Mackesy",
+  "rating": 4.56,
+  "votes": 214905
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458038a"
+  },
+  "title": "A Memory of Light (The Wheel of Time, #14)",
+  "book_url": "https://www.goodreads.com/book/show/7743175-a-memory-of-light",
+  "author": "Robert Jordan",
+  "author_url": "https://www.goodreads.com/author/show/6252.Robert_Jordan",
+  "rating": 4.58,
+  "votes": 153389
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458038b"
+  },
+  "title": "The Will of the Many (Hierarchy, #1)",
+  "book_url": "https://www.goodreads.com/book/show/58416952-the-will-of-the-many",
+  "author": "James  Islington",
+  "author_url": "https://www.goodreads.com/author/show/8427407.James_Islington",
+  "rating": 4.61,
+  "votes": 93820
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458038c"
+  },
+  "title": "Manacled",
+  "book_url": "https://www.goodreads.com/book/show/52122096-manacled",
+  "author": "SenLinYu",
+  "author_url": "https://www.goodreads.com/author/show/19089975.SenLinYu",
+  "rating": 4.64,
+  "votes": 121004
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458038d"
+  },
+  "title": "The Sun Does Shine: How I Found Life and Freedom on Death Row",
+  "book_url": "https://www.goodreads.com/book/show/34964905-the-sun-does-shine",
+  "author": "Anthony Ray Hinton",
+  "author_url": "https://www.goodreads.com/author/show/17022329.Anthony_Ray_Hinton",
+  "rating": 4.65,
+  "votes": 70438
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458038e"
+  },
+  "title": "Paint It All Red (Mindf*ck, #5)",
+  "book_url": "https://www.goodreads.com/book/show/33361549-paint-it-all-red",
+  "author": "S.T. Abby",
+  "author_url": "https://www.goodreads.com/author/show/16120982.S_T_Abby",
+  "rating": 4.56,
+  "votes": 242328
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458038f"
+  },
+  "title": "The Trouble with Peace (The Age of Madness, #2)",
+  "book_url": "https://www.goodreads.com/book/show/40701777-the-trouble-with-peace",
+  "author": "Joe Abercrombie",
+  "author_url": "https://www.goodreads.com/author/show/276660.Joe_Abercrombie",
+  "rating": 4.6,
+  "votes": 37685
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580390"
+  },
+  "title": "Jade Legacy (The Green Bone Saga, #3)",
+  "book_url": "https://www.goodreads.com/book/show/51057191-jade-legacy",
+  "author": "Fonda Lee",
+  "author_url": "https://www.goodreads.com/author/show/7705004.Fonda_Lee",
+  "rating": 4.63,
+  "votes": 34945
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580391"
+  },
+  "title": "Assassin's Fate (The Fitz and the Fool, #3)",
+  "book_url": "https://www.goodreads.com/book/show/30688013-assassin-s-fate",
+  "author": "Robin Hobb",
+  "author_url": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
+  "rating": 4.65,
+  "votes": 44026
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580392"
+  },
+  "title": "The Women",
+  "book_url": "https://www.goodreads.com/book/show/127305853-the-women",
+  "author": "Kristin Hannah",
+  "author_url": "https://www.goodreads.com/author/show/54493.Kristin_Hannah",
+  "rating": 4.61,
+  "votes": 1069261
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580393"
+  },
+  "title": "Moon Rising (Wings of Fire, #6)",
+  "book_url": "https://www.goodreads.com/book/show/22323659-moon-rising",
+  "author": "Tui T. Sutherland",
+  "author_url": "https://www.goodreads.com/author/show/374504.Tui_T_Sutherland",
+  "rating": 4.58,
+  "votes": 30095
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580394"
+  },
+  "title": "A Day in the Life of Marlon Bundo",
+  "book_url": "https://www.goodreads.com/book/show/39319227-a-day-in-the-life-of-marlon-bundo",
+  "author": "Jill Twiss",
+  "author_url": "https://www.goodreads.com/author/show/17835618.Jill_Twiss",
+  "rating": 4.64,
+  "votes": 17619
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580395"
+  },
+  "title": "Neverseen (Keeper of the Lost Cities, #4)",
+  "book_url": "https://www.goodreads.com/book/show/22733616-neverseen",
+  "author": "Shannon Messenger",
+  "author_url": "https://www.goodreads.com/author/show/5265998.Shannon_Messenger",
+  "rating": 4.57,
+  "votes": 51216
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580396"
+  },
+  "title": "March: Book Three (March, #3)",
+  "book_url": "https://www.goodreads.com/book/show/29436571-march",
+  "author": "John             Lewis",
+  "author_url": "https://www.goodreads.com/author/show/6429079.John_Lewis",
+  "rating": 4.65,
+  "votes": 21177
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580397"
+  },
+  "title": "鬼滅の刃 8 [Kimetsu no Yaiba 8]",
+  "book_url": "https://www.goodreads.com/book/show/40376342-8-kimetsu-no-yaiba-8",
+  "author": "Koyoharu Gotouge",
+  "author_url": "https://www.goodreads.com/author/show/17299725.Koyoharu_Gotouge",
+  "rating": 4.67,
+  "votes": 18086
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580398"
+  },
+  "title": "One Piece, Volume 38: Rocketman!!",
+  "book_url": "https://www.goodreads.com/book/show/6801614-one-piece-volume-38",
+  "author": "Eiichiro Oda",
+  "author_url": "https://www.goodreads.com/author/show/208650.Eiichiro_Oda",
+  "rating": 4.64,
+  "votes": 15829
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e34580399"
+  },
+  "title": "When Stars Are Scattered",
+  "book_url": "https://www.goodreads.com/book/show/51864234-when-stars-are-scattered",
+  "author": "Victoria Jamieson",
+  "author_url": "https://www.goodreads.com/author/show/2849126.Victoria_Jamieson",
+  "rating": 4.61,
+  "votes": 29947
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458039a"
+  },
+  "title": "The Warden and the Wolf King (The Wingfeather Saga, #4)",
+  "book_url": "https://www.goodreads.com/book/show/22091081-the-warden-and-the-wolf-king",
+  "author": "Andrew       Peterson",
+  "author_url": "https://www.goodreads.com/author/show/746724.Andrew_Peterson",
+  "rating": 4.74,
+  "votes": 15556
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458039b"
+  },
+  "title": "The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)",
+  "book_url": "https://www.goodreads.com/book/show/125887685-the-eye-of-the-bedlam-bride",
+  "author": "Matt Dinniman",
+  "author_url": "https://www.goodreads.com/author/show/999015.Matt_Dinniman",
+  "rating": 4.68,
+  "votes": 22894
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458039c"
+  },
+  "title": "チェンソーマン 9 [Chainsaw Man 9]",
+  "book_url": "https://www.goodreads.com/book/show/54702009-9-chainsaw-man-9",
+  "author": "Tatsuki Fujimoto",
+  "author_url": "https://www.goodreads.com/author/show/15397162.Tatsuki_Fujimoto",
+  "rating": 4.64,
+  "votes": 19046
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458039d"
+  },
+  "title": "The Sandman, Vol. 9: The Kindly Ones",
+  "book_url": "https://www.goodreads.com/book/show/71252.The_Sandman_Vol_9",
+  "author": "Neil Gaiman",
+  "author_url": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+  "rating": 4.59,
+  "votes": 51831
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458039e"
+  },
+  "title": "Skin Game (The Dresden Files, #15)",
+  "book_url": "https://www.goodreads.com/book/show/19486421-skin-game",
+  "author": "Jim  Butcher",
+  "author_url": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+  "rating": 4.56,
+  "votes": 89241
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e3458039f"
+  },
+  "title": "The Empty Grave (Lockwood & Co., #5)",
+  "book_url": "https://www.goodreads.com/book/show/32324555-the-empty-grave",
+  "author": "Jonathan Stroud",
+  "author_url": "https://www.goodreads.com/author/show/33467.Jonathan_Stroud",
+  "rating": 4.62,
+  "votes": 26656
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a0"
+  },
+  "title": "Redeeming 6 (Boys of Tommen, #4)",
+  "book_url": "https://www.goodreads.com/book/show/110212831-redeeming-6",
+  "author": "Chloe Walsh",
+  "author_url": "https://www.goodreads.com/author/show/7858234.Chloe_Walsh",
+  "rating": 4.64,
+  "votes": 111956
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a1"
+  },
+  "title": "Saga, Volume 9",
+  "book_url": "https://www.goodreads.com/book/show/29237221-saga-volume-9",
+  "author": "Brian K. Vaughan",
+  "author_url": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+  "rating": 4.56,
+  "votes": 33184
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a2"
+  },
+  "title": "Some Kind of Perfect (Calloway Sisters, #5)",
+  "book_url": "https://www.goodreads.com/book/show/26148181-some-kind-of-perfect",
+  "author": "Krista Ritchie",
+  "author_url": "https://www.goodreads.com/author/show/7056935.Krista_Ritchie",
+  "rating": 4.62,
+  "votes": 28624
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a3"
+  },
+  "title": "呪術廻戦 9 [Jujutsu Kaisen 9]",
+  "book_url": "https://www.goodreads.com/book/show/50527779-9-jujutsu-kaisen-9",
+  "author": "Gege Akutami",
+  "author_url": "https://www.goodreads.com/author/show/17890308.Gege_Akutami",
+  "rating": 4.65,
+  "votes": 18805
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a4"
+  },
+  "title": "Wintersteel (Cradle, #8)",
+  "book_url": "https://www.goodreads.com/book/show/55423083-wintersteel",
+  "author": "Will Wight",
+  "author_url": "https://www.goodreads.com/author/show/7125278.Will_Wight",
+  "rating": 4.69,
+  "votes": 28500
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a5"
+  },
+  "title": "பொன்னியின் செல்வன், முழுத்தொகுப்பு",
+  "book_url": "https://www.goodreads.com/book/show/1108124._",
+  "author": "Kalki",
+  "author_url": "https://www.goodreads.com/author/show/63244.Kalki",
+  "rating": 4.7,
+  "votes": 10611
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a6"
+  },
+  "title": "An Echo in the Darkness (Mark of the Lion, #2)",
+  "book_url": "https://www.goodreads.com/book/show/46601.An_Echo_in_the_Darkness",
+  "author": "Francine Rivers",
+  "author_url": "https://www.goodreads.com/author/show/6492.Francine_Rivers",
+  "rating": 4.63,
+  "votes": 59522
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a7"
+  },
+  "title": "約束のネバーランド 4 [Yakusoku no Neverland 4]",
+  "book_url": "https://www.goodreads.com/book/show/35569981-4-yakusoku-no-neverland-4",
+  "author": "Kaiu Shirai",
+  "author_url": "https://www.goodreads.com/author/show/15560538.Kaiu_Shirai",
+  "rating": 4.61,
+  "votes": 15851
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a8"
+  },
+  "title": "Iron Prince (Warformed: Stormweaver, #1)",
+  "book_url": "https://www.goodreads.com/book/show/55559974-iron-prince",
+  "author": "Bryce O'Connor",
+  "author_url": "https://www.goodreads.com/author/show/14685175.Bryce_O_Connor",
+  "rating": 4.58,
+  "votes": 16586
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803a9"
+  },
+  "title": "The Last Hope (Warriors: Omen of the Stars, #6)",
+  "book_url": "https://www.goodreads.com/book/show/7124921-the-last-hope",
+  "author": "Erin Hunter",
+  "author_url": "https://www.goodreads.com/author/show/27498.Erin_Hunter",
+  "rating": 4.56,
+  "votes": 14626
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803aa"
+  },
+  "title": "Darkstalker (Wings of Fire: Legends, #1)",
+  "book_url": "https://www.goodreads.com/book/show/28190254-darkstalker",
+  "author": "Tui T. Sutherland",
+  "author_url": "https://www.goodreads.com/author/show/374504.Tui_T_Sutherland",
+  "rating": 4.6,
+  "votes": 18976
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803ab"
+  },
+  "title": "The Dying of the Light (Skulduggery Pleasant, #9)",
+  "book_url": "https://www.goodreads.com/book/show/18131799-the-dying-of-the-light",
+  "author": "Derek Landy",
+  "author_url": "https://www.goodreads.com/author/show/165168.Derek_Landy",
+  "rating": 4.59,
+  "votes": 12510
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803ac"
+  },
+  "title": "Sin & Surrender (Demigods of San Francisco, #6)",
+  "book_url": "https://www.goodreads.com/book/show/53285819-sin-surrender",
+  "author": "K.F. Breene",
+  "author_url": "https://www.goodreads.com/author/show/7010202.K_F_Breene",
+  "rating": 4.67,
+  "votes": 15827
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803ad"
+  },
+  "title": "A Heart That Works",
+  "book_url": "https://www.goodreads.com/book/show/61295403-a-heart-that-works",
+  "author": "Rob Delaney",
+  "author_url": "https://www.goodreads.com/author/show/6586630.Rob_Delaney",
+  "rating": 4.62,
+  "votes": 31057
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803ae"
+  },
+  "title": "Tiamat's Wrath (The Expanse, #8)",
+  "book_url": "https://www.goodreads.com/book/show/28335698-tiamat-s-wrath",
+  "author": "James S.A. Corey",
+  "author_url": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+  "rating": 4.57,
+  "votes": 73722
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803af"
+  },
+  "title": "War Lord (The Saxon Stories, #13)",
+  "book_url": "https://www.goodreads.com/book/show/52033836-war-lord",
+  "author": "Bernard Cornwell",
+  "author_url": "https://www.goodreads.com/author/show/12542.Bernard_Cornwell",
+  "rating": 4.6,
+  "votes": 14477
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b0"
+  },
+  "title": "僕のヒーローアカデミア 5 [Boku No Hero Academia 5]",
+  "book_url": "https://www.goodreads.com/book/show/25696035-5-boku-no-hero-academia-5",
+  "author": "Kohei Horikoshi",
+  "author_url": "https://www.goodreads.com/author/show/6567626.Kohei_Horikoshi",
+  "rating": 4.6,
+  "votes": 20528
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b1"
+  },
+  "title": "Reverse (The Bittersweet Symphony Duet, #2)",
+  "book_url": "https://www.goodreads.com/book/show/61486681-reverse",
+  "author": "Kate  Stewart",
+  "author_url": "https://www.goodreads.com/author/show/7390938.Kate_Stewart",
+  "rating": 4.65,
+  "votes": 19395
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b2"
+  },
+  "title": "The Running Grave (Cormoran Strike, #7)",
+  "book_url": "https://www.goodreads.com/book/show/139399948-the-running-grave",
+  "author": "Robert Galbraith",
+  "author_url": "https://www.goodreads.com/author/show/383606.Robert_Galbraith",
+  "rating": 4.6,
+  "votes": 94728
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b3"
+  },
+  "title": "Assata: An Autobiography",
+  "book_url": "https://www.goodreads.com/book/show/100322.Assata",
+  "author": "Assata Shakur",
+  "author_url": "https://www.goodreads.com/author/show/57925.Assata_Shakur",
+  "rating": 4.59,
+  "votes": 28890
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b4"
+  },
+  "title": "Fighting Words",
+  "book_url": "https://www.goodreads.com/book/show/48945757-fighting-words",
+  "author": "Kimberly Brubaker Bradley",
+  "author_url": "https://www.goodreads.com/author/show/118639.Kimberly_Brubaker_Bradley",
+  "rating": 4.64,
+  "votes": 13001
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b5"
+  },
+  "title": "Draco Malfoy and the Mortifying Ordeal of Being in Love",
+  "book_url": "https://www.goodreads.com/book/show/61064623-draco-malfoy-and-the-mortifying-ordeal-of-being-in-love",
+  "author": "isthisselfcare",
+  "author_url": "https://www.goodreads.com/author/show/22153085.isthisselfcare",
+  "rating": 4.57,
+  "votes": 29862
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b6"
+  },
+  "title": "The Little Liar",
+  "book_url": "https://www.goodreads.com/book/show/112975105-the-little-liar",
+  "author": "Mitch Albom",
+  "author_url": "https://www.goodreads.com/author/show/2331.Mitch_Albom",
+  "rating": 4.57,
+  "votes": 75793
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b7"
+  },
+  "title": "Crookedstar's Promise (Warriors Super Edition, #4)",
+  "book_url": "https://www.goodreads.com/book/show/9487114-crookedstar-s-promise",
+  "author": "Erin Hunter",
+  "author_url": "https://www.goodreads.com/author/show/27498.Erin_Hunter",
+  "rating": 4.56,
+  "votes": 12156
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b8"
+  },
+  "title": "Sulwe",
+  "book_url": "https://www.goodreads.com/book/show/42785750-sulwe",
+  "author": "Lupita Nyong'o",
+  "author_url": "https://www.goodreads.com/author/show/7916822.Lupita_Nyong_o",
+  "rating": 4.66,
+  "votes": 10959
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803b9"
+  },
+  "title": "The Five Wishes of Mr. Murray McBride",
+  "book_url": "https://www.goodreads.com/book/show/39665277-the-five-wishes-of-mr-murray-mcbride",
+  "author": "Joe Siple",
+  "author_url": "https://www.goodreads.com/author/show/17886956.Joe_Siple",
+  "rating": 4.61,
+  "votes": 32544
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803ba"
+  },
+  "title": "The Sea Speaks His Name",
+  "book_url": "https://www.goodreads.com/book/show/55225630-the-sea-speaks-his-name",
+  "author": "Leila S. Chudori",
+  "author_url": "https://www.goodreads.com/author/show/760524.Leila_S_Chudori",
+  "rating": 4.62,
+  "votes": 19929
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803bb"
+  },
+  "title": "Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity",
+  "book_url": "https://www.goodreads.com/book/show/18289396-seeking-allah-finding-jesus",
+  "author": "Nabeel Qureshi",
+  "author_url": "https://www.goodreads.com/author/show/7216902.Nabeel_Qureshi",
+  "rating": 4.59,
+  "votes": 36355
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803bc"
+  },
+  "title": "Styxx (Dark-Hunter, #22)",
+  "book_url": "https://www.goodreads.com/book/show/15767586-styxx",
+  "author": "Sherrilyn Kenyon",
+  "author_url": "https://www.goodreads.com/author/show/4430.Sherrilyn_Kenyon",
+  "rating": 4.58,
+  "votes": 23015
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803bd"
+  },
+  "title": "Unbound: My Story of Liberation and the Birth of the Me Too Movement",
+  "book_url": "https://www.goodreads.com/book/show/57351643-unbound",
+  "author": "Tarana Burke",
+  "author_url": "https://www.goodreads.com/author/show/17949687.Tarana_Burke",
+  "rating": 4.58,
+  "votes": 13695
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803be"
+  },
+  "title": "Ciudades de fuego (Trilogía Fuego, #3)",
+  "book_url": "https://www.goodreads.com/book/show/62599881-ciudades-de-fuego",
+  "author": "Joana Marcús",
+  "author_url": "https://www.goodreads.com/author/show/17035694.Joana_Marc_s",
+  "rating": 4.58,
+  "votes": 22242
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803bf"
+  },
+  "title": "進撃の巨人 20 [Shingeki no Kyojin 20]",
+  "book_url": "https://www.goodreads.com/book/show/18363261-20-shingeki-no-kyojin-20",
+  "author": "Hajime Isayama",
+  "author_url": "https://www.goodreads.com/author/show/5365396.Hajime_Isayama",
+  "rating": 4.67,
+  "votes": 10810
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c0"
+  },
+  "title": "The Sunshine Court (All For the Game, #4)",
+  "book_url": "https://www.goodreads.com/book/show/201914164-the-sunshine-court",
+  "author": "Nora Sakavic",
+  "author_url": "https://www.goodreads.com/author/show/6896843.Nora_Sakavic",
+  "rating": 4.57,
+  "votes": 17626
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c1"
+  },
+  "title": "A Place to Hang the Moon",
+  "book_url": "https://www.goodreads.com/book/show/53399305-a-place-to-hang-the-moon",
+  "author": "Kate Albus",
+  "author_url": "https://www.goodreads.com/author/show/20286582.Kate_Albus",
+  "rating": 4.57,
+  "votes": 19786
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c2"
+  },
+  "title": "Empire of the Damned (Empire of the Vampire, #2)",
+  "book_url": "https://www.goodreads.com/book/show/126918599-empire-of-the-damned",
+  "author": "Jay Kristoff",
+  "author_url": "https://www.goodreads.com/author/show/4735144.Jay_Kristoff",
+  "rating": 4.57,
+  "votes": 20115
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c3"
+  },
+  "title": "ハイキュー!! 4 [Haikyū!! 4]",
+  "book_url": "https://www.goodreads.com/book/show/19048615-4-haiky-4",
+  "author": "Haruichi Furudate",
+  "author_url": "https://www.goodreads.com/author/show/7488961.Haruichi_Furudate",
+  "rating": 4.66,
+  "votes": 11244
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c4"
+  },
+  "title": "Naruto, Vol. 11: Impassioned Efforts (Naruto, #11)",
+  "book_url": "https://www.goodreads.com/book/show/204041.Naruto_Vol_11",
+  "author": "Masashi Kishimoto",
+  "author_url": "https://www.goodreads.com/author/show/11047.Masashi_Kishimoto",
+  "rating": 4.56,
+  "votes": 29766
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c5"
+  },
+  "title": "Fruits Basket, Tome 23",
+  "book_url": "https://www.goodreads.com/book/show/2261583.Fruits_Basket_Tome_23",
+  "author": "Natsuki Takaya",
+  "author_url": "https://www.goodreads.com/author/show/26306.Natsuki_Takaya",
+  "rating": 4.57,
+  "votes": 12321
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c6"
+  },
+  "title": "The Adventure Zone Vol. 2: Murder on the Rockport Limited!",
+  "book_url": "https://www.goodreads.com/book/show/41812788-the-adventure-zone-vol-2",
+  "author": "Clint McElroy",
+  "author_url": "https://www.goodreads.com/author/show/14748891.Clint_McElroy",
+  "rating": 4.6,
+  "votes": 13201
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c7"
+  },
+  "title": "Stars & Stripes (Cut & Run, #6)",
+  "book_url": "https://www.goodreads.com/book/show/14061520-stars-stripes",
+  "author": "Abigail Roux",
+  "author_url": "https://www.goodreads.com/author/show/1122775.Abigail_Roux",
+  "rating": 4.56,
+  "votes": 11691
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c8"
+  },
+  "title": "Hana",
+  "book_url": "https://www.goodreads.com/book/show/33819853-hana",
+  "author": "Alena Mornštajnová",
+  "author_url": "https://www.goodreads.com/author/show/7154134.Alena_Morn_tajnov_",
+  "rating": 4.67,
+  "votes": 11025
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803c9"
+  },
+  "title": "ギヴン 2 [Given 2]",
+  "book_url": "https://www.goodreads.com/book/show/28504158-2-given-2",
+  "author": "Natsuki Kizu",
+  "author_url": "https://www.goodreads.com/author/show/14369527.Natsuki_Kizu",
+  "rating": 4.58,
+  "votes": 12089
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803ca"
+  },
+  "title": "Midlife Fairy Hunter (Forty Proof, #2)",
+  "book_url": "https://www.goodreads.com/book/show/51456504-midlife-fairy-hunter",
+  "author": "Shannon Mayer",
+  "author_url": "https://www.goodreads.com/author/show/5172000.Shannon_Mayer",
+  "rating": 4.58,
+  "votes": 12975
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803cb"
+  },
+  "title": "The Choice: Embrace the Possible",
+  "book_url": "https://www.goodreads.com/book/show/30753738-the-choice",
+  "author": "Edith Eger",
+  "author_url": "https://www.goodreads.com/author/show/15226357.Edith_Eger",
+  "rating": 4.58,
+  "votes": 115959
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803cc"
+  },
+  "title": "Desperation in Death (In Death, #55)",
+  "book_url": "https://www.goodreads.com/book/show/59808349-desperation-in-death",
+  "author": "J.D. Robb",
+  "author_url": "https://www.goodreads.com/author/show/17065.J_D_Robb",
+  "rating": 4.57,
+  "votes": 24999
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803cd"
+  },
+  "title": "Magic Triumphs (Kate Daniels, #10)",
+  "book_url": "https://www.goodreads.com/book/show/17333180-magic-triumphs",
+  "author": "Ilona Andrews",
+  "author_url": "https://www.goodreads.com/author/show/21748.Ilona_Andrews",
+  "rating": 4.56,
+  "votes": 32898
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803ce"
+  },
+  "title": "Grandmaster of Demonic Cultivation: Mo Dao Zu Shi (Novel) Vol. 4",
+  "book_url": "https://www.goodreads.com/book/show/58736095-grandmaster-of-demonic-cultivation",
+  "author": "Mò Xiāng Tóng Xiù",
+  "author_url": "https://www.goodreads.com/author/show/21718579.M_Xi_ng_T_ng_Xi_",
+  "rating": 4.71,
+  "votes": 13211
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803cf"
+  },
+  "title": "Heaven Official's Blessing: Tian Guan Ci Fu (Novel) Vol. 8",
+  "book_url": "https://www.goodreads.com/book/show/60044962-heaven-official-s-blessing",
+  "author": "Mò Xiāng Tóng Xiù",
+  "author_url": "https://www.goodreads.com/author/show/21718579.M_Xi_ng_T_ng_Xi_",
+  "rating": 4.81,
+  "votes": 12332
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d0"
+  },
+  "title": "The Happiest Man on Earth",
+  "book_url": "https://www.goodreads.com/book/show/53239311-the-happiest-man-on-earth",
+  "author": "Eddie Jaku",
+  "author_url": "https://www.goodreads.com/author/show/20228583.Eddie_Jaku",
+  "rating": 4.62,
+  "votes": 106002
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d1"
+  },
+  "title": "Berserk, Vol. 12",
+  "book_url": "https://www.goodreads.com/book/show/248876.Berserk_Vol_12",
+  "author": "Kentaro Miura",
+  "author_url": "https://www.goodreads.com/author/show/145435.Kentaro_Miura",
+  "rating": 4.75,
+  "votes": 11139
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d2"
+  },
+  "title": "Fullmetal Alchemist, Vol. 23 (Fullmetal Alchemist, #23)",
+  "book_url": "https://www.goodreads.com/book/show/7326879-fullmetal-alchemist-vol-23",
+  "author": "Hiromu Arakawa",
+  "author_url": "https://www.goodreads.com/author/show/4698899.Hiromu_Arakawa",
+  "rating": 4.67,
+  "votes": 10123
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d3"
+  },
+  "title": "Naoki Urasawa's Monster, Volume 1 (Naoki Urasawa's Monster: Kanzenban, #1)",
+  "book_url": "https://www.goodreads.com/book/show/6609784-naoki-urasawa-s-monster-volume-1",
+  "author": "Naoki Urasawa",
+  "author_url": "https://www.goodreads.com/author/show/294649.Naoki_Urasawa",
+  "rating": 4.58,
+  "votes": 11055
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d4"
+  },
+  "title": "Sierra Six (Gray Man, #11)",
+  "book_url": "https://www.goodreads.com/book/show/58122885-sierra-six",
+  "author": "Mark Greaney",
+  "author_url": "https://www.goodreads.com/author/show/2961590.Mark_Greaney",
+  "rating": 4.58,
+  "votes": 14532
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d5"
+  },
+  "title": "Highball Rush (Bootleg Springs, #6)",
+  "book_url": "https://www.goodreads.com/book/show/46019885-highball-rush",
+  "author": "Claire Kingsley",
+  "author_url": "https://www.goodreads.com/author/show/15487051.Claire_Kingsley",
+  "rating": 4.57,
+  "votes": 16185
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d6"
+  },
+  "title": "Walk Through Walls: A Memoir",
+  "book_url": "https://www.goodreads.com/book/show/28814918-walk-through-walls",
+  "author": "Marina Abramović",
+  "author_url": "https://www.goodreads.com/author/show/16793.Marina_Abramovi_",
+  "rating": 4.56,
+  "votes": 18825
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d7"
+  },
+  "title": "The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook",
+  "book_url": "https://www.goodreads.com/book/show/129909.The_Boy_Who_Was_Raised_as_a_Dog",
+  "author": "Bruce D. Perry",
+  "author_url": "https://www.goodreads.com/author/show/74693.Bruce_D_Perry",
+  "rating": 4.59,
+  "votes": 37401
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d8"
+  },
+  "title": "Las legiones malditas (Publio Cornelio Escipión, #2)",
+  "book_url": "https://www.goodreads.com/book/show/6420319-las-legiones-malditas",
+  "author": "Santiago Posteguillo",
+  "author_url": "https://www.goodreads.com/author/show/1469075.Santiago_Posteguillo",
+  "rating": 4.7,
+  "votes": 10939
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803d9"
+  },
+  "title": "Death Rocks (DCI Ryan Mysteries, #21)",
+  "book_url": "https://www.goodreads.com/book/show/210533162-death-rocks",
+  "author": "L.J. Ross",
+  "author_url": "https://www.goodreads.com/author/show/11900421.L_J_Ross",
+  "rating": 4.62,
+  "votes": 14148
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803da"
+  },
+  "title": "Last Resort (Joe Dillard #10)",
+  "book_url": "https://www.goodreads.com/book/show/124015195-last-resort",
+  "author": "Scott Pratt",
+  "author_url": "https://www.goodreads.com/author/show/2419708.Scott_Pratt",
+  "rating": 4.61,
+  "votes": 11973
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803db"
+  },
+  "title": "Magical Midlife Battle (Leveling Up, #8)",
+  "book_url": "https://www.goodreads.com/book/show/123284399-magical-midlife-battle",
+  "author": "K.F. Breene",
+  "author_url": "https://www.goodreads.com/author/show/7010202.K_F_Breene",
+  "rating": 4.75,
+  "votes": 10199
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803dc"
+  },
+  "title": "Moth (Monstrous, #5)",
+  "book_url": "https://www.goodreads.com/book/show/60398931-moth",
+  "author": "Lily Mayne",
+  "author_url": "https://www.goodreads.com/author/show/21321484.Lily_Mayne",
+  "rating": 4.6,
+  "votes": 11042
+},
+{
+  "_id": {
+    "$oid": "67c73584972b3c7e345803dd"
+  },
+  "title": "Madness (L.O.R.D.S., #6)",
+  "book_url": "https://www.goodreads.com/book/show/204535779-madness",
+  "author": "Shantel Tessier",
+  "author_url": "https://www.goodreads.com/author/show/7086716.Shantel_Tessier",
+  "rating": 4.59,
+  "votes": 39556
+}]
