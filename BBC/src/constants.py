@@ -1,0 +1,9 @@
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'}
+BASE_URL = "https://www.bbc.com"
+BBC_NEWS= BASE_URL + "/news"
+MAIN_CONTENT_ID = "main-content"
+ARTICLES_HREF = "/news/articles/"
+HEADLINE_ATTRS = {"data-component": "headline-block"}
+BYLINE_ATTRS = {"data-testid": "byline-new-contributors"}
+TAGS_ATTRS = {"data-component" : "tags"}
+BODY_DIV_ATTRS = {"data-component": "text-block"}
