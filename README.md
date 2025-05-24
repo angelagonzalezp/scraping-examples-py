@@ -66,3 +66,15 @@ This repo contains some web scraping examples.
 
 #### How to run the script
 `cd .\goodreads\;python .\goodreads_top100.py -o .\output\goodreads_top100.csv [-m]`
+
+## BBC
+
+### bbc_news
+[bbc_news.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/BBC/bbc_news.py) scrapes BBC News iterating through articles.
+
+#### Parameters
+
+* -o: output JSON file to store results.
+
+#### How to run the script
+`cd .\BBC\;python .\bbc_news.py -o .\output\bbc-news-example.json`
