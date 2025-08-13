@@ -61,15 +61,20 @@ This repo contains some web scraping examples.
 ## goodreads
 
 ### goodreads_top100
-[goodreads_top100.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/goodreads/goodreads_top100.py) scrapes Goodreads Top 100 - Highest Rated Books on Goodreads with at least 10,000 Ratings
+[goodreads_top100.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/goodreads/goodreads_top100.py) scrapes Goodreads Top 100 - Highest Rated Books on Goodreads with at least 10,000 Ratings. It can scrape any other list in the website if we pass the URL as an argument.
 
 #### Parameters
 
 * -o: output CSV file to store results.
 * -m: optional flag. If specified, it writes the scraped data to a MongoDB collection specified as environment variables.
+* -u: optional. We can pass a url to any list in goodreads website
 
 #### How to run the script
-`cd .\goodreads\;python .\goodreads_top100.py -o .\output\goodreads_top100.csv [-m]`
+* Default url value (Goodreads Top 100): `cd .\goodreads\;python .\goodreads_top100.py -o .\output\goodreads_top100.csv [-u][-m]`
+
+For any other list:
+* Best Books of the Decade 2020's: `cd .\goodreads\;python .\goodreads_top100.py -o .\output\top_decade_2020.csv -u https://www.goodreads.com/list/show/143500.Best_Books_of_the_Decade_2020_s?ref=ls_fl_0_seeall`
+* Best Books of 20th century: `cd .\goodreads\;python .\goodreads_top100.py -o .\output\top_20th_century.csv -u https://www.goodreads.com/list/show/6` 
 
 ## BBC
 
