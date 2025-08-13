@@ -11,6 +11,10 @@ This repo contains some web scraping examples.
     - [billboard_hot100](#billboard_hot100)
 3. [goodreads](#goodreads)
     - [goodreads_top100](#goodreads_top100)
+4. [BBC](#BBC)
+    - [bbc_news](#bbc_news)
+5. [CoinMarketCap](#CoinMarketCap)
+    - [trending-cryptocurrencies](#trending-cryptocurrencies)
 
 ## IMDb
 
@@ -78,3 +82,15 @@ This repo contains some web scraping examples.
 
 #### How to run the script
 `cd .\BBC\;python .\bbc_news.py -o .\output\bbc-news-example.json`
+
+## CoinMarketCap
+
+### trending-cryptocurrencies
+[trending-cryptocurrencies.py](https://github.com/angelagonzalezp/scraping-examples-py/blob/main/coinmarketcap/trending-cryptocurrencies.py) scrapes the hottest trending cryptocurrencies on CoinMarketCap.
+
+#### Parameters
+
+* -o: output CSV file to store results.
+
+#### How to run the script
+`cd .\coinmarketcap\;python .\trending-cryptocurrencies.py -o .\output\trending-cryptocurrencies.csv`
