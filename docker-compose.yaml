@@ -13,3 +13,23 @@ services:
       - ./goodreads/output:/app/goodreads/output
       - ./IMDb/output:/app/IMDb/output
     command: tail -f /dev/null  # keep container running but do nothing
+    depends_on:
+      - mongo
+    networks:
+      - scraper-network
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - scraper-network
+
+volumes:
+  mongodb_data:
+
+networks:
+  scraper-network:
+    driver: bridge
