@@ -1,25 +1,20 @@
-import requests
 import re
-from bs4 import BeautifulSoup
 import logging
 import os
-from pymongo import MongoClient
-from dotenv import load_dotenv
+import random
+import sys
 import pandas as pd
 import numpy as np
-from .constants import *
+from src.constants import *
+from pymongo import MongoClient
+from dotenv import load_dotenv
+from datetime import datetime
+from time import sleep
+from random import randint
+from utils import common as cm
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-def get_html(url):
-    response = requests.get(url, headers=HEADERS)
-    try: 
-        response.raise_for_status()
-    except requests.exceptions.HTTPError as e:
-        raise SystemExit(e)
-    html = BeautifulSoup(response.text, "html.parser")
-    return html
 
 def get_top_table_element(html):
     try:
@@ -87,6 +82,32 @@ def scrape_rating(top_table):
         raise error
     return avg_rating_list, rating_count_list 
 
+def format_string_date(date_str):
+    # July 3, 2018
+    try:
+        formatted_date = datetime.strptime(date_str, "%B %d, %Y")
+        return formatted_date
+    except ValueError:
+        logger.error(f"Cannot convert {date_str} to the desired format")
+
+def scrape_book_details(book_href, proxy=None):
+    logger.info(f"Scraping book details: {book_href}")
+    html = cm.get_html(book_href, proxy=proxy)
+    if html:
+        details = {}
+        try:
+            reviews_count = html.find("span", attrs=REVIEWS_COUNT_ATTR)
+            description = html.find("div", attrs=DESCRIPTION_ATTR)
+            first_published = html.find("p", attrs=FIRST_PUBLISHED_ATTR)
+            details = {
+                "reviews_count": int(reviews_count.text.replace("reviews", "").replace(",","").strip()),
+                "description": description.text,
+                "first_published": format_string_date(first_published.text.replace("First published", "").replace("Published", "").strip())
+            }
+        except Exception as e:
+            logger.error(e)
+        return details
+
 def scrape_table_data(table_html):
     try:
         titles, titles_href = scrape_titles(table_html)
@@ -98,8 +119,24 @@ def scrape_table_data(table_html):
             "author": authors,
             "author_url": authors_href,
             "rating": avg_ratings,
-            "votes": votes
+            "votes": votes,
+            "reviews": [],
+            "description": [],
+            "first_published": []
         }
+        
+        #proxies = cm.get_free_proxies()
+        for url in top_books_dictionary["book_url"]:
+            sleep(randint(1,20))
+            #details = scrape_book_details(url, proxy=random.choice(proxies))
+            details = scrape_book_details(url)
+            try:
+                top_books_dictionary["reviews"].append(details["reviews_count"])
+                top_books_dictionary["description"].append(details["description"])
+                top_books_dictionary["first_published"].append(details["first_published"])
+            except TypeError:
+                logger.warning(f"Failed to retrieve book details for url {url}")
+            
     except Exception as error:
         raise error
     return top_books_dictionary

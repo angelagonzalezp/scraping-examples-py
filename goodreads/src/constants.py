@@ -6,3 +6,6 @@ BOOK_TITLE_CLASS = "bookTitle"
 AUTHOR_NAME_CLASS = "authorName"
 RATING_CLASS = "minirating"
 BASE_URL = "https://www.goodreads.com"
+REVIEWS_COUNT_ATTR = {"data-testid": "reviewsCount"}
+DESCRIPTION_ATTR = {"data-testid": "description"}
+FIRST_PUBLISHED_ATTR = {"data-testid": "publicationInfo"}
